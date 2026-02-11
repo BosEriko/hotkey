@@ -50,10 +50,10 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Meta` + `0`: Open **Message** in workspace 0
 
 ## Resize Windows
-- `Super` + `U`: Resize window **left** by 20
-- `Super` + `P`: Resize window **right** by 20
-- `Super` + `I`: Resize window **bottom** by 20
-- `Super` + `O`: Resize window **top** by 20
+- `Super` + `U`: Resize window **left**
+- `Super` + `P`: Resize window **right**
+- `Super` + `I`: Resize window **bottom**
+- `Super` + `O`: Resize window **top**
 
 ## Layout Orientation
 - `Super` + `-`: Insert window (Change orientation) to **east**
