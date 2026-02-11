@@ -39,13 +39,16 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Shift` + `Super` + `0`: Move window to workspace 10 and focus it
 
 ## Open Applications
-- `Meta` + `1`: Open **Zen** in workspace 1
-- `Meta` + `2`: Open **Ghostty** in workspace 2
-- `Meta` + `3`: Open **Zed** in workspace 3
-- `Meta` + `4`: Open **Postman** in workspace 4
-- `Meta` + `5`: Open **Obsidian** in workspace 5
-- `Meta` + `9`: Open **Spotify** in workspace 9
-- `Meta` + `0`: Open **Discord** in workspace 0
+- `Meta` + `1`: Open **Browser** in workspace 1
+- `Meta` + `2`: Open **Terminal** in workspace 2
+- `Meta` + `3`: Open **Editor** in workspace 3
+- `Meta` + `4`: Open **Endpoint** in workspace 4
+- `Meta` + `5`: Open **Notes** in workspace 5
+- `Meta` + `6`: Open **Stream** in workspace 6
+- `Meta` + `7`: Open **Chat** in workspace 7
+- `Meta` + `8`: Open **Vault** in workspace 8
+- `Meta` + `9`: Open **Music** in workspace 9
+- `Meta` + `0`: Open **Message** in workspace 0
 
 ## Resize Windows
 - `Super` + `U`: Resize window **left** by 20
@@ -54,13 +57,13 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Super` + `O`: Resize window **top** by 20
 
 ## Next Layout Orientation
-- `Super` + `-`: Insert window to **east**
-- `Super` + `\`: Insert window to **south**
+- `Super` + `-`: Insert window (Change orientation) to **east**
+- `Super` + `\`: Insert window (Change orientation) to **south**
 
 ## Window Controls
-- `Super` + `Space`: Toggle window **float**
-- `Shift` + `Super` + Space`: Toggle window **float**
-- `Shift` + `Super` + Q`: Close window
+- `Super` + `Space`: Enable **float**
+- `Shift` + `Super` + `Space`: Disable **float**
+- `Shift` + `Super` + `Q`: Close window
 
 ## Reload Yabai Config
 - `Shift` + `Super` + `R`: Reload Yabai and related services
