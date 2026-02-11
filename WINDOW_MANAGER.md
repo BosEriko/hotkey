@@ -55,7 +55,7 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Super` + `I`: Resize window **bottom** by 20
 - `Super` + `O`: Resize window **top** by 20
 
-## Next Layout Orientation
+## Layout Orientation
 - `Super` + `-`: Insert window (Change orientation) to **east**
 - `Super` + `\`: Insert window (Change orientation) to **south**
 
@@ -64,5 +64,5 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Shift` + `Super` + `Space`: Disable **float**
 - `Shift` + `Super` + `Q`: Close window
 
-## Reload Yabai Config
-- `Shift` + `Super` + `R`: Reload Yabai and related services
+## Reload Config
+- `Shift` + `Super` + `R`: Reload Config
