@@ -13,7 +13,7 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Shift` + `Super` + `K`: Swap the window to the **north**
 - `Shift` + `Super` + `L`: Swap the window to the **east**
 
-## Focus Workspace (Space)
+## Focus Workspace
 - `Super` + `1`: Focus workspace 1
 - `Super` + `2`: Focus workspace 2
 - `Super` + `3`: Focus workspace 3
