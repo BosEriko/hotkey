@@ -56,8 +56,8 @@ On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves 
 - `Super` + `O`: Resize window **top**
 
 ## Layout Orientation
-- `Super` + `-`: Insert window (Change orientation) to **east**
-- `Super` + `\`: Insert window (Change orientation) to **south**
+- `Super` + `-`: Insert window or Change orientation to **east**
+- `Super` + `\`: Insert window or Change orientation to **south**
 
 ## Window Controls
 - `Super` + `Space`: Enable **float**
