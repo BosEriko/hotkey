@@ -1,5 +1,4 @@
 # Window Manager Hotkeys
-
 On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves as the `Super` key. This configuration on your setup is the same across Windows, SteamOS, and macOS.
 
 ## Focus Windows
