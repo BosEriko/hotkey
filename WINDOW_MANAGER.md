@@ -62,7 +62,7 @@ Hotkeys should be the same regardless if it's a Mac specific keyboard or not.
 ## Window Controls
 - `Alt (Left)` + `Space`: Enable **float**
 - `Shift (Left)` + `Alt (Left)` + `Space`: Disable **float**
-- `Shift` + `Super` + `Q`: Close window
+- `Shift (Left)` + `Alt (Left)` + `Q`: Close window
 
 ## Reload Config
-- `Shift` + `Super` + `R`: Reload Config
+- `Shift (Left)` + `Alt (Left)` + `R`: Reload Config
