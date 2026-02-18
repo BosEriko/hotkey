@@ -1,21 +1,21 @@
 # Keybinds Hotkeys
-On the keyboard, the `Meta` key acts as the Windows key, and the Alt key serves as the `Super` key. This configuration on your setup is the same across Windows, SteamOS, and macOS.
+Hotkeys should be the same regardless if it's a Mac specific keyboard or not.
 
 ## Rebinding
-- `Caps Lock` to `Meta (Left)`
-- `Meta (Left)` to `` ` ``
+- `Caps Lock` to `Control (Left)`
+- `Control (Left)` to `` ` ``
 
 ## MacOS Style Copy/Paste/Cut/Select
-- `Super (Left)` + `A`: Select
-- `Super (Left)` + `C`: Copy
-- `Super (Left)` + `V`: Paste
-- `Super (Left)` + `X`: Cut
+- `Alt (Left)` + `A`: Select
+- `Alt (Left)` + `C`: Copy
+- `Alt (Left)` + `V`: Paste
+- `Alt (Left)` + `X`: Cut
 
 ## Vim Style Movement
-- `Super (Right)` + `H`: Left
-- `Super (Right)` + `J`: Down
-- `Super (Right)` + `K`: Up
-- `Super (Right)` + `L`: Right
+- `Alt (Right)` + `H`: Left
+- `Alt (Right)` + `J`: Down
+- `Alt (Right)` + `K`: Up
+- `Alt (Right)` + `L`: Right
 
 ## Vim Style Escape
-- `Meta (Left)` + `[`: Escape
+- `Control (Left)` + `[`: Escape
