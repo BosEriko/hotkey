@@ -39,13 +39,13 @@ Hotkeys should be the same regardless if it's a Mac specific keyboard or not.
 
 ## Open Applications
 - `Windows` + `1`: Open **Browser** in workspace 1
-- `Windows` + `2`: Open **Terminal** in workspace 2
-- `Windows` + `3`: Open **Editor** in workspace 3
-- `Windows` + `4`: Open **Endpoint** in workspace 4
+- `Windows` + `2`: Open **Development** in workspace 2
+- `Windows` + `3`: Open **API** in workspace 3
+- `Windows` + `4`: Open **Figma** in workspace 4
 - `Windows` + `5`: Open **Notes** in workspace 5
 - `Windows` + `6`: Open **Stream** in workspace 6
 - `Windows` + `7`: Open **Chat** in workspace 7
-- `Windows` + `8`: Open **Vault** in workspace 8
+- `Windows` + `8`: Open **Files** in workspace 8
 - `Windows` + `9`: Open **Music** in workspace 9
 - `Windows` + `0`: Open **Message** in workspace 0
 
