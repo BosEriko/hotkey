@@ -6,6 +6,10 @@ In Tmux, the `Prefix` key is set to `C-g`, allowing you to trigger tmux commands
 - `Control` + `R`: Search History
 - `Control` + `T`: Search Files
 
+## Modes (Tmux)
+- `Prefix` - `Escape`: VIM Mode
+- `Prefix` - `O`: OpenCode mode
+
 ## General (Tmux)
 - `Prefix` - `R`: Reload Tmux
 
@@ -27,7 +31,3 @@ In Tmux, the `Prefix` key is set to `C-g`, allowing you to trigger tmux commands
 - `Prefix` - `Shift` + `J`: Resize pane to the bottom
 - `Prefix` - `Shift` + `K`: Resize pane to the top
 - `Prefix` - `Shift` + `L`: Resize pane to the right
-
-## Modes (Tmux)
-- `Prefix` - `Escape`: VIM Mode
-- `Prefix` - `O`: OpenCode mode
