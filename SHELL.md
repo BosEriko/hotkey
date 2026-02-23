@@ -14,6 +14,7 @@ In Tmux, the `Prefix` key is set to `C-g`, allowing you to trigger tmux commands
 - `Prefix` - `R`: Reload Tmux
 
 ## Window (Tmux)
+- `Prefix` - `W`: List Window
 - `Prefix` - `C`: New Window
 - `Prefix` - `X`: Close Window
 - `Prefix` - `,`: Rename Window
