@@ -1,4 +1,4 @@
-# Shell Hotkeys
+# Terminal Hotkeys
 In Tmux, the `Prefix` key is set to `C-g`, allowing you to trigger tmux commands without conflicting with your system-wide key mappings.
 
 ## General (Shell)
