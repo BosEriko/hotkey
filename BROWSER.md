@@ -9,10 +9,12 @@ Hotkeys should be the same regardless if it's a Mac specific keyboard or not.
 - `Ctrl` + `J`: Next Tab
 - `Ctrl` + `K`: Previous Tab
 - `Ctrl` + `L`: Forward
+- `Ctrl` + `\`: Toggle vertical tabs expanded
 
 ## Page
 - `Ctrl` + `R`: Reload
 - `Ctrl` + `Shift` + `R`: Reload bypassing cache
+- `Ctrl` + `P`: Focus Location
 
 ## Miscellaneous
 - `Ctrl` + `B`: Copy URL
