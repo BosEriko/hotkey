@@ -2,7 +2,6 @@
 In Tmux, the `Prefix` key is set to `Control` + `Space`, allowing you to trigger tmux commands without conflicting with your system-wide key mappings.
 
 ## General (Shell)
-- `Control` + `E`: Open Explorer
 - `Control` + `R`: Search History
 - `Control` + `T`: Search Files
 
