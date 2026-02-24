@@ -24,6 +24,7 @@ In Tmux, the `Prefix` key is set to `Control` + `Space`, allowing you to trigger
 - `Prefix` - `Control` + `L`: Go to Next Window
 
 ## Pane (Tmux)
+- `Prefix` - `Z`: Maximize current pane
 - `Prefix` - `H`: Move to left pane
 - `Prefix` - `J`: Move to bottom pane
 - `Prefix` - `K`: Move to top pane
