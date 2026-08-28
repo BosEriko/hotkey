@@ -8,7 +8,7 @@ In Tmux, the `Prefix` key is set to `Control` + `Space`, allowing you to trigger
 ## Modes (Tmux)
 - `Prefix` - `Escape`: VIM Mode
 - `Prefix` - `E`: Edit mode
-- `Prefix` - `O`: OpenCode mode
+- `Prefix` - `A`: Agent mode
 
 ## General (Tmux)
 - `Prefix` - `R`: Reload Tmux
