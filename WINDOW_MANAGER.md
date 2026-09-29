@@ -67,6 +67,6 @@ Hotkeys should be the same regardless if it's a Mac specific keyboard or not.
 ## Reload Config
 - `Shift (Left)` + `Alt (Left)` + `R`: Reload Config
 
-## Cycle Wallpaper (Exclusive to Sway)
+## Cycle Wallpaper
 - `Windows` + `j`: Next Wallpaper
 - `Windows` + `k`: Previous Wallpaper
